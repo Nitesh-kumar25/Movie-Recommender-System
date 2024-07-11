@@ -25,11 +25,11 @@ Train the recommendation model using the processed data.
 Use the trained model to get movie recommendations.
 
 ## Requirements
-Python 3.7+
-pandas
-scikit-learn
-nltk
-numpy
+Python 3.7+,
+pandas,
+scikit-learn,
+nltk,
+numpy,
 
 
 
